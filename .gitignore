@@ -1,0 +1,77 @@
+# Build directories
+build/
+*/build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+
+# Vivado/Xilinx files
+.Xil/
+*.jou
+*.log
+*.str
+*.bit
+*.dcp
+*.xpr
+
+# ModelSim/QuestaSim files
+work/
+*.wlf
+transcript
+vsim.wlf
+modelsim.ini
+*.qdb
+*.qpg
+*.qdb
+*.do
+
+# Simulation outputs
+sim/
+*/sim/
+outputs/
+*/outputs/
+*.dat
+*.vcd
+waves.vcd
+
+# Synthesis outputs
+synth/
+*/synth/
+dc/
+*/dc/
+*.sdf
+*.svf
+*.rpt
+
+# Log files
+logs/
+*/logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# macOS files
+.DS_Store
+*/.DS_Store
+
+# Windows files
+Thumbs.db
+*.exe
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archive files (if any)
+*.tar.gz
+*.zip
