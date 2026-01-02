@@ -180,20 +180,6 @@ make synth
 - **Version Control**: Git
 - **Documentation**: Markdown, PDF reports
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes and test thoroughly
-4. Commit changes: `git commit -am 'Add feature'`
-5. Push to branch: `git push origin feature-name`
-6. Submit a Pull Request
-
-## 📞 Support
-
-- **Course**: ECE 564 - Digital Systems Design
-- **Institution**: Duke University
-- **Semester**: Fall 2025
 
 ## 📄 License
 
